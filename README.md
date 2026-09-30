@@ -1,8 +1,8 @@
-# 🌱 SOPHEA : Système d'Optimisation de Portefeuille à Haute Efficacité Algorithmique
+# SOPHEA : Système d'Optimisation de Portefeuille à Haute Efficacité Algorithmique
 
 SOPHEA est un système d'information "Basse Consommation" appliqué à l'ingénierie financière. Développé dans le cadre de la SAE sur les systèmes d'information frugaux, ce projet concilie les exigences de précision de la finance quantitative avec les impératifs de la sobriété numérique (*Green Coding*).
 
-## 📊 Piliers de l'Approche Frugale
+## Piliers de l'Approche Frugale
 
 1. **Stratégie de Données (*Small Data*) :** 
    - Privilégie la qualité et la pertinence des séries temporelles épurées (KPIs) plutôt que le traitement lourd de pétaoctets de données non structurées (*Big Data*).
@@ -16,11 +16,11 @@ SOPHEA est un système d'information "Basse Consommation" appliqué à l'ingéni
 
 ## English Below 
 
-# 🌱 SOPHEA: High Algorithmic Efficiency Portfolio Optimization System
+# SOPHEA: High Algorithmic Efficiency Portfolio Optimization System
 
 SOPHEA is a "Low-Energy" information system applied to financial engineering. Developed as part of the frugal information systems academic project, this repository bridges the precision demands of quantitative finance with the imperatives of digital sobriety (*Green Coding*).
 
-## 📊 Pillars of the Frugal Approach
+## Pillars of the Frugal Approach
 
 1. **Data Strategy (*Small Data*):** 
    - Prioritizes the quality and relevance of streamlined time-series datasets (KPIs) over the heavy processing of petabytes of unstructured data (*Big Data*).
@@ -33,7 +33,7 @@ SOPHEA is a "Low-Energy" information system applied to financial engineering. De
    - Solving Markowitz mean-variance optimization in a vectorized manner using `NumPy` to minimize computational footprint.
 ---
 
-## 🛠️ Installation et Lancement
+## Installation et Lancement
 
 1. **Cloner le dépôt / Clone the reposit :**
    ```bash
